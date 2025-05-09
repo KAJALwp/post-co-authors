@@ -2,6 +2,9 @@
 
 A WordPress plugin to manage contributors for posts. This plugin adds a meta box in the post editor to select contributors, which only users with the capability to manage posts (admins, editors, and authors) can manage and stores them as post metadata. Additionally, it ensures clean uninstallation by removing all plugin-related metadata.
 
+![post-co-authors](https://github.com/user-attachments/assets/c1da3caa-6638-4e32-9a53-16278961875c)
+
+
 ---
 
 ## Features
