@@ -1,0 +1,52 @@
+/**
+ * File post-co-authors.css.
+ *
+ * Style for the Contributors box
+ */
+.post-co-authors-box {
+	margin-top: 20px;
+	padding: 15px;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	background-color: #f9f9f9;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.post-co-authors-box h3 {
+	margin: 0 0 10px;
+	font-size: 18px;
+	color: #333;
+	font-weight: bold;
+}
+
+.post-co-authors-box ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.post-co-authors-box ul li {
+	margin-bottom: 10px;
+	display: flex;
+	align-items: center;
+}
+
+.post-co-authors-box ul li:last-child {
+	margin-bottom: 0;
+}
+
+.post-co-authors-box ul li img {
+	margin-right: 10px;
+	border-radius: 50%;
+}
+
+.post-co-authors-box ul li a {
+	color: #0073aa;
+	text-decoration: none;
+	font-weight: bold;
+	transition: color 0.3s;
+}
+
+.post-co-authors-box ul li a:hover {
+	color: #005177;
+}
