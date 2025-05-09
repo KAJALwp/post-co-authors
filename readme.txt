@@ -47,8 +47,7 @@ Yes, but your theme must be modified to retrieve and display this metadata.
 == Screenshots ==
 
 1. Contributors meta box in the post editor
-2. Settings integration in the admin panel
-3. Example display on the frontend (requires theme support)
+2. Example display on the frontend (requires theme support)
 
 == Changelog ==
 
